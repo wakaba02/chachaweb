@@ -1,2 +1,3 @@
 chachamaru
-aiueo
+understanding
+
